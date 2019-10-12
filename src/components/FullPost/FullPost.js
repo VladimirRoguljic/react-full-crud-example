@@ -5,7 +5,8 @@ import './FullPost.css';
 class FullPost extends Component {
 
     state = {
-        loadedPost: null
+        loadedPost: null,
+        test: true
     };
 
 
