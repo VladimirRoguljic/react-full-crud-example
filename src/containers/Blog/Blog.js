@@ -9,7 +9,8 @@ class Blog extends Component {
 
     state = {
         posts: [],
-        selectedPostId: null
+        selectedPostId: null,
+        name: 'Bla'
     };
 
 
