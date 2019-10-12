@@ -7,11 +7,6 @@ import './Blog.css';
 
 class Blog extends Component {
 
-    //Promise default javascript object present in ES6
-    //What then do - is simple a method takes a function as input
-    // and this function will executed once the promise resolove when we get
-    // data from backend
-
     state = {
         posts: [],
         selectedPostId: null
