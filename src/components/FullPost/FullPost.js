@@ -6,7 +6,6 @@ class FullPost extends Component {
 
     state = {
         loadedPost: null,
-        test: true
     };
 
 
