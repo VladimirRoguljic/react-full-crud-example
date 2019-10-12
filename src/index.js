@@ -5,6 +5,7 @@ import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 import axios from 'axios';
 
+// Setting axios baseUrl
 axios.defaults.baseURL = 'https://jsonplaceholder.typicode.com';
 
 //Optional - setting authorization header
